@@ -1,8 +1,10 @@
 # e-commerce-auction-site
 
-this site is inee my projects in my fullstack course, it is a full back and front site where you can make a bid for a product,
+This site is inee my projects in my fullstack course, it is a full back and front site where you can make a bid for a product,
 and the data gets saved in the data base.
 there is a login and register section in the site and you can only make a bid if you'r signed in.
+
+
 ![2022-11-02](https://user-images.githubusercontent.com/110329486/199430164-15fd9ac3-7435-414a-bade-641be599d2fa.png)
 
 
